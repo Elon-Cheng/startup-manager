@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="../StartupManager.Core/StartupManager.Core.csproj" />
+    <ProjectReference Include="../StartupManager.Storage/StartupManager.Storage.csproj" />
+  </ItemGroup>
+</Project>

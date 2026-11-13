@@ -1,0 +1,13 @@
+**/bin/
+**/obj/
+.tools/
+artifacts/
+.vs/
+*.user
+
+**/test-results/
+*.db
+*.db-shm
+*.db-wal
+*.log
+*.zip

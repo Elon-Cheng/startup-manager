@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>WinExe</OutputType></PropertyGroup>
+  <ItemGroup><ProjectReference Include="../StartupManager.Windows/StartupManager.Windows.csproj" /></ItemGroup>
+</Project>

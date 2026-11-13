@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <ApplicationIcon>Assets/app.ico</ApplicationIcon>
+    <UseWPF>true</UseWPF>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyName>StartupManager</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup><ProjectReference Include="../StartupManager.Windows/StartupManager.Windows.csproj" /></ItemGroup>
+<ItemGroup><Resource Include="Assets/app.ico" /></ItemGroup>
+</Project>
